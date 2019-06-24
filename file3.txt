@@ -7,3 +7,6 @@ More chnages
 changes
 
 changes to assess git ignore
+
+
+file3.txt cannot be ignored because it has prviously been added to the repository.
