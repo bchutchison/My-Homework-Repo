@@ -5,3 +5,5 @@ More chnages
 
 
 changes
+
+changes to assess git ignore
