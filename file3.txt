@@ -1,1 +1,2 @@
 Changes to third file
+Additional changes to file 3
