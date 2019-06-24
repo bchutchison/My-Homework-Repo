@@ -1,2 +1,2 @@
 file4.txt
-file3.txt
+file3.txt - will not ignore because file was previously added to repository
